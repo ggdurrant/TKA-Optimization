@@ -10,9 +10,9 @@ Analysis is first performed on the bending stresses and the strains from differe
 
 The loading cases are represented as two forces, centered at points 1/4 and 3/4 along the width of the prosthesis:
 1. Habitual 
-  - 1500N at each point
+    * 1500N at each point
 2. Extreme
-  - 2500N at one point, 500N at one point
+    * 2500N at one point, 500N at one point
  
  The material thicknesses analyzed, using ultra-high-molecular-weight polyethylene (UHMWPE) and a cobalt-chromium alloy (Co-Cr) are:
  1. UHMWPE - 11mm, CoCr - 1mm
